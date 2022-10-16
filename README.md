@@ -1,2 +1,2 @@
 # test
-java için test
+java projeleri için test dosyası
